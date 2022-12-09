@@ -1,0 +1,15 @@
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\estacionamento.csproj.AssemblyReference.cache
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\estacionamento.AssemblyInfoInputs.cache
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\estacionamento.AssemblyInfo.cs
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\estacionamento.csproj.CoreCompileInputs.cache
+C:\estudos\bootcamps\pottential\estacionamento\bin\Debug\net7.0\estacionamento.exe
+C:\estudos\bootcamps\pottential\estacionamento\bin\Debug\net7.0\estacionamento.deps.json
+C:\estudos\bootcamps\pottential\estacionamento\bin\Debug\net7.0\estacionamento.runtimeconfig.json
+C:\estudos\bootcamps\pottential\estacionamento\bin\Debug\net7.0\estacionamento.dll
+C:\estudos\bootcamps\pottential\estacionamento\bin\Debug\net7.0\estacionamento.pdb
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\estacionamento.dll
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\refint\estacionamento.dll
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\estacionamento.pdb
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\estacionamento.genruntimeconfig.cache
+C:\estudos\bootcamps\pottential\estacionamento\obj\Debug\net7.0\ref\estacionamento.dll
