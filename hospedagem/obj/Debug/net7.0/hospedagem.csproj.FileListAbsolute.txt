@@ -1,0 +1,15 @@
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\hospedagem.csproj.AssemblyReference.cache
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\hospedagem.AssemblyInfoInputs.cache
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\hospedagem.AssemblyInfo.cs
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\hospedagem.csproj.CoreCompileInputs.cache
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\bin\Debug\net7.0\hospedagem.exe
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\bin\Debug\net7.0\hospedagem.deps.json
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\bin\Debug\net7.0\hospedagem.runtimeconfig.json
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\bin\Debug\net7.0\hospedagem.dll
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\bin\Debug\net7.0\hospedagem.pdb
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\hospedagem.dll
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\refint\hospedagem.dll
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\hospedagem.pdb
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\hospedagem.genruntimeconfig.cache
+C:\estudos\bootcamps\pottential\BootcampDotnet\hospedagem\obj\Debug\net7.0\ref\hospedagem.dll
