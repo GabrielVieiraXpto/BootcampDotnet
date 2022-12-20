@@ -1,0 +1,15 @@
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\Celular.csproj.AssemblyReference.cache
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\Celular.AssemblyInfoInputs.cache
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\Celular.AssemblyInfo.cs
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\Celular.csproj.CoreCompileInputs.cache
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\bin\Debug\net7.0\Celular.exe
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\bin\Debug\net7.0\Celular.deps.json
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\bin\Debug\net7.0\Celular.runtimeconfig.json
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\bin\Debug\net7.0\Celular.dll
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\bin\Debug\net7.0\Celular.pdb
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\Celular.dll
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\refint\Celular.dll
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\Celular.pdb
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\Celular.genruntimeconfig.cache
+C:\estudos\bootcamps\pottential\BootcampDotnet\Celular\obj\Debug\net7.0\ref\Celular.dll
