@@ -22,7 +22,7 @@ namespace Desafio.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Desafio.Models.Item", b =>
+            modelBuilder.Entity("Desafio.Models.Item_", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -44,7 +44,7 @@ namespace Desafio.Migrations
 
                     b.HasIndex("VendaId");
 
-                    b.ToTable("Item");
+                    b.ToTable("Item_");
                 });
 
             modelBuilder.Entity("Desafio.Models.Venda", b =>
@@ -58,9 +58,8 @@ namespace Desafio.Migrations
                     b.Property<DateTime>("Data")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Status")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
 
                     b.Property<int>("VendedorId")
                         .HasColumnType("int");
@@ -69,10 +68,10 @@ namespace Desafio.Migrations
 
                     b.HasIndex("VendedorId");
 
-                    b.ToTable("Segurados");
+                    b.ToTable("Vendas");
                 });
 
-            modelBuilder.Entity("Desafio.Models.Vendedor", b =>
+            modelBuilder.Entity("Desafio.Models.Vendedor_", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -98,10 +97,10 @@ namespace Desafio.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Vendedor");
+                    b.ToTable("Vendedor_");
                 });
 
-            modelBuilder.Entity("Desafio.Models.Item", b =>
+            modelBuilder.Entity("Desafio.Models.Item_", b =>
                 {
                     b.HasOne("Desafio.Models.Venda", null)
                         .WithMany("Itens")
@@ -110,7 +109,7 @@ namespace Desafio.Migrations
 
             modelBuilder.Entity("Desafio.Models.Venda", b =>
                 {
-                    b.HasOne("Desafio.Models.Vendedor", "Vendedor")
+                    b.HasOne("Desafio.Models.Vendedor_", "Vendedor")
                         .WithMany()
                         .HasForeignKey("VendedorId")
                         .OnDelete(DeleteBehavior.Cascade)

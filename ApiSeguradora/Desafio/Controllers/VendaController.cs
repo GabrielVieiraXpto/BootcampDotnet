@@ -26,10 +26,12 @@ namespace Desafio.Controllers
             {
                 return BadRequest();
             }
-            //venda.Status = EnumStatusVenda.Aguadando_Pagamento;
+            venda.Status = EnumStatusVenda.Aguadando_Pagamento;
             _context.Add(venda);
             _context.SaveChanges();
             return CreatedAtAction(nameof(ObterPorID), new { id = venda.Id }, venda);
+        
+        
         }
 
 
